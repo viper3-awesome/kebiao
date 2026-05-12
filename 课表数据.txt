@@ -1,0 +1,349 @@
+<tbody><tr>
+            <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                &nbsp;
+            </th>
+            <th width="123" height="28" align="center" style="background: rgb(222,225,230)">星期一</th>
+            <th width="123" height="28" align="center" style="background: rgb(222,225,230)">星期二</th>
+            <th width="123" height="28" align="center" style="background: rgb(222,225,230)">星期三</th>
+            <th width="124" height="28" align="center" style="background: rgb(222,225,230)">星期四</th>
+            <th width="124" height="28" align="center" style="background: rgb(222,225,230)">星期五</th>
+            <th width="124" height="28" align="center" style="background: rgb(222,225,230)">星期六</th>
+            <th width="124" height="28" align="center" style="background: rgb(222,225,230)">星期日</th>
+        </tr>
+        
+            <tr>
+                <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                        第一二节&nbsp;
+                    <br>(01,02小节)
+                    <br>10:00-11:40
+                </th>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-1-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-1-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-1-4">
+                    <div id="176CDE2536A744F88F386060679139F5-1-1" class="kbcontent1" style="display: none;">中华传统文化（下）<br><font title="周次(节次)">1-5,7-9,11-12,14-15(周)</font><br><font title="教室">教A320</font><br>----------------------<br>深度学习<br><font title="周次(节次)">13(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="176CDE2536A744F88F386060679139F5-1-2" style="" class="kbcontent">中华传统文化（下）<br><font title="教师">任课教师:曹琼茹</font><br><font title="周次(节次)">1-5,7-9,11-12,14-15(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【神华教学楼】</font><font title="教室">教A320</font><br><font name="xsks" color="black" style="display:none;">(讲课:32)<br></font>---------------------<br>深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">13(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:32),讲课:36,实践:36)<br></font></div>
+                    <div id="176CDE2536A744F88F386060679139F5-1-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-2-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-2-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-2-4">
+                    <div id="176CDE2536A744F88F386060679139F5-2-1" class="kbcontent1" style="display: none;">深度学习<br><font title="周次(节次)">1-9,11-12,14-17(周)</font><br><font title="教室">二实验D201室</font><br>----------------------<br>深度学习<br><font title="周次(节次)">13(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="176CDE2536A744F88F386060679139F5-2-2" style="" class="kbcontent">深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">1-9,11-12,14-17(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D201室</font><br><font name="xsks" color="black" style="display:none;">(讲课:36,实践:36)<br></font>---------------------<br>深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">13(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:36,实践:36),讲课:36,实践:36)<br></font></div>
+                    <div id="176CDE2536A744F88F386060679139F5-2-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-3-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-3-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-3-4">
+                    <div id="176CDE2536A744F88F386060679139F5-3-1" class="kbcontent1" style="display: none;">移动终端应用开发<br><font title="周次(节次)">1-9,11-12,14-17(周)</font><br><font title="教室">二实验D202室</font><br>----------------------<br>深度学习<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="176CDE2536A744F88F386060679139F5-3-2" style="" class="kbcontent">移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">1-9,11-12,14-17(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:40,实践:40)<br></font>---------------------<br>深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">10(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:40,实践:40),讲课:36,实践:36)<br></font></div>
+                    <div id="176CDE2536A744F88F386060679139F5-3-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-4-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-4-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-4-4">
+                    <div id="176CDE2536A744F88F386060679139F5-4-1" class="kbcontent1" style="display: none;">中华传统文化（下）<br><font title="周次(节次)">10(周)</font><br><font title="教室">教A320</font><br></div>
+                    <div id="176CDE2536A744F88F386060679139F5-4-2" style="" class="kbcontent">中华传统文化（下）<br><font title="教师">任课教师:曹琼茹</font><br><font title="周次(节次)">10(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【神华教学楼】</font><font title="教室">教A320</font><br><font name="xsks" color="black" style="display:none;">(讲课:32)<br></font></div>
+                    <div id="176CDE2536A744F88F386060679139F5-4-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-5-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-5-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-5-4">
+                    <div id="176CDE2536A744F88F386060679139F5-5-1" class="kbcontent1" style="display: none;">深度学习<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br>----------------------<br>深度学习<br><font title="周次(节次)">1-2,4-8,12,14-15,17(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="176CDE2536A744F88F386060679139F5-5-2" style="" class="kbcontent">深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">10(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:36,实践:36)<br></font>---------------------<br>深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">1-2,4-8,12,14-15,17(周)[01-02节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:36,实践:36),讲课:36,实践:36)<br></font></div>
+                    <div id="176CDE2536A744F88F386060679139F5-5-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-6-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-6-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-6-4">
+                    <div id="176CDE2536A744F88F386060679139F5-6-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="176CDE2536A744F88F386060679139F5-6-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="176CDE2536A744F88F386060679139F5-6-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="176CDE2536A744F88F386060679139F5-7-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="176CDE2536A744F88F386060679139F5-7-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="176CDE2536A744F88F386060679139F5-7-4">
+
+                    <div id="176CDE2536A744F88F386060679139F5-7-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="176CDE2536A744F88F386060679139F5-7-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="176CDE2536A744F88F386060679139F5-7-4" style="display:none;" class="kbcontent"></div>
+                </td>
+
+            </tr>
+        
+            <tr>
+                <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                        第三四五节&nbsp;
+                    <br>(03,04,05小节)
+                    <br>11:55-14:30
+                </th>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-1-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-1-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-1-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-1-1" class="kbcontent1" style="display: none;">移动终端应用开发<br><font title="周次(节次)">1-5,7-9,11-12,14-17(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-1-2" style="" class="kbcontent">移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">1-5,7-9,11-12,14-17(周)[03-04节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:40,实践:40)<br></font></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-1-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-2-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-2-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-2-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-2-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-2-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-2-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-3-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-3-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-3-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-3-1" class="kbcontent1" style="display: none;">深度学习<br><font title="周次(节次)">15-17(周)</font><br><font title="教室">二实验D201室</font><br></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-3-2" style="" class="kbcontent">深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">15-17(周)[03-04节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D201室</font><br><font name="xsks" color="black" style="display:none;">(讲课:36,实践:36)<br></font></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-3-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-4-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-4-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-4-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-4-1" class="kbcontent1" style="display: none;">Web后端应用开发<br><font title="周次(节次)">1-9,11-12,14-15(周)</font><br><font title="教室">二实验D202室</font><br>----------------------<br>移动终端应用开发<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-4-2" style="" class="kbcontent">Web后端应用开发<br><font title="教师">任课教师:徐亮</font><br><font title="周次(节次)">1-9,11-12,14-15(周)[03-04节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:80)<br></font>---------------------<br>移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">10(周)[03-04节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:80),讲课:40,实践:40)<br></font></div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-4-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-5-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-5-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-5-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-5-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-5-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-5-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-6-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-6-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-6-4">
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-6-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-6-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-6-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B90AAF14A1045D4A15DEB5596263CF0-7-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B90AAF14A1045D4A15DEB5596263CF0-7-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B90AAF14A1045D4A15DEB5596263CF0-7-4">
+
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-7-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-7-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B90AAF14A1045D4A15DEB5596263CF0-7-4" style="display:none;" class="kbcontent"></div>
+                </td>
+
+            </tr>
+        
+            <tr>
+                <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                        第六七节&nbsp;
+                    <br>(06,07小节)
+                    <br>16:00-17:40
+                </th>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-1-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-1-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-1-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-1-1" class="kbcontent1" style="display: none;">移动终端应用开发<br><font title="周次(节次)">13(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-1-2" style="" class="kbcontent">移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">13(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:40,实践:40)<br></font></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-1-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-2-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-2-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-2-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-2-1" class="kbcontent1" style="display: none;">Web后端应用开发<br><font title="周次(节次)">1-9,11-12,14-15(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-2-2" style="" class="kbcontent">Web后端应用开发<br><font title="教师">任课教师:徐亮</font><br><font title="周次(节次)">1-9,11-12,14-15(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:80)<br></font></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-2-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-3-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-3-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-3-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-3-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-3-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-3-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-4-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-4-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-4-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-4-1" class="kbcontent1" style="display: none;">深度学习<br><font title="周次(节次)">11-12,14(周)</font><br><font title="教室">二实验D201室</font><br></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-4-2" style="" class="kbcontent">深度学习<br><font title="教师">任课教师:谢鹏飞</font><br><font title="周次(节次)">11-12,14(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D201室</font><br><font name="xsks" color="black" style="display:none;">(讲课:36,实践:36)<br></font></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-4-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-5-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-5-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-5-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-5-1" class="kbcontent1" style="display: none;">移动终端应用开发<br><font title="周次(节次)">1-2,4-5(周)</font><br><font title="教室">二实验D202室</font><br>----------------------<br>移动终端应用开发<br><font title="周次(节次)">6-8(周)</font><br><font title="教室">二实验D202室</font><br>----------------------<br>移动终端应用开发<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-5-2" style="" class="kbcontent">移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">1-2,4-5(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:40,实践:40)<br></font>---------------------<br>移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">6-8(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:40,实践:40),讲课:40,实践:40)<br></font>---------------------<br>移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">10(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(((讲课:40,实践:40),讲课:40,实践:40),讲课:40,实践:40)<br></font></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-5-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-6-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-6-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-6-4">
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-6-1" class="kbcontent1" style="display: none;">移动终端应用开发<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-6-2" style="" class="kbcontent">移动终端应用开发<br><font title="教师">任课教师:李凤娇</font><br><font title="周次(节次)">10(周)[06-07节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:40,实践:40)<br></font></div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-6-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="BD197E42FC1347B09A63FCD22C09204D-7-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="BD197E42FC1347B09A63FCD22C09204D-7-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="BD197E42FC1347B09A63FCD22C09204D-7-4">
+
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-7-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-7-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="BD197E42FC1347B09A63FCD22C09204D-7-4" style="display:none;" class="kbcontent"></div>
+                </td>
+
+            </tr>
+        
+            <tr>
+                <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                        第八九节&nbsp;
+                    <br>(08,09小节)
+                    <br>17:55-19:35
+                </th>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-1-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-1-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-1-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-1-1" class="kbcontent1" style="display: none;">Web后端应用开发<br><font title="周次(节次)">1-5,7-9,11-12,14-16(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-1-2" style="" class="kbcontent">Web后端应用开发<br><font title="教师">任课教师:徐亮</font><br><font title="周次(节次)">1-5,7-9,11-12,14-16(周)[08-09节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">(讲课:80)<br></font></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-1-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-2-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-2-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-2-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-2-1" class="kbcontent1" style="display: none;">大学生就业指导<br><font title="周次(节次)">1-8(周)</font><br><font title="教室">教B101</font><br></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-2-2" style="" class="kbcontent">大学生就业指导<br><font title="教师">任课教师:古丽波斯坦·木合塔尔</font><br><font title="周次(节次)">1-8(周)[08-09节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【神华教学楼】</font><font title="教室">教B101</font><br><font name="xsks" color="black" style="display:none;">(讲课:16,实践:4)<br></font></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-2-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-3-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-3-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-3-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-3-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-3-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-3-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-4-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-4-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-4-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-4-1" class="kbcontent1" style="display: none;">中华传统文化（下）<br><font title="周次(节次)">12,14-15(周)</font><br><font title="教室">教A520</font><br>----------------------<br>Web后端应用开发<br><font title="周次(节次)">10(周)</font><br><font title="教室">二实验D202室</font><br></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-4-2" style="" class="kbcontent">中华传统文化（下）<br><font title="教师">任课教师:曹琼茹</font><br><font title="周次(节次)">12,14-15(周)[08-09节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【神华教学楼】</font><font title="教室">教A520</font><br><font name="xsks" color="black" style="display:none;">(讲课:32)<br></font>---------------------<br>Web后端应用开发<br><font title="教师">任课教师:徐亮</font><br><font title="周次(节次)">10(周)[08-09节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【第二实验楼】</font><font title="教室">二实验D202室</font><br><font name="xsks" color="black" style="display:none;">((讲课:32),讲课:80)<br></font></div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-4-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-5-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-5-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-5-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-5-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-5-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-5-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-6-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-6-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-6-4">
+                    <div id="8D22DD84D25843FF8D553A799F65151D-6-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-6-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-6-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8D22DD84D25843FF8D553A799F65151D-7-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8D22DD84D25843FF8D553A799F65151D-7-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8D22DD84D25843FF8D553A799F65151D-7-4">
+
+                    <div id="8D22DD84D25843FF8D553A799F65151D-7-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-7-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8D22DD84D25843FF8D553A799F65151D-7-4" style="display:none;" class="kbcontent"></div>
+                </td>
+
+            </tr>
+        
+            <tr>
+                <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                        第十十一节&nbsp;
+                    <br>(10,11小节)
+                    <br>19:50-21:30
+                </th>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-1-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-2-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-3-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-4-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-1" class="kbcontent1" style="display: none;">形势与政策<br><font title="周次(节次)">5-8(周)</font><br><font title="教室">实验A308室</font><br></div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-2" style="" class="kbcontent">形势与政策<br><font title="教师">任课教师:钟梦馨</font><br><font title="周次(节次)">5-8(周)[10-11节]</font><br><font title="教学楼" name="jxlmc" style="display:none;">【实验楼(创业路)】</font><font title="教室">实验A308室</font><br><font name="xsks" color="black" style="display:none;">(讲课:8)<br></font></div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-5-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-4">
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-6-4" style="display:none;" class="kbcontent"></div>
+                </td>
+                <td width="123" height="28" align="center" valign="top">
+                    <input type="hidden" name="jx0415zbdiv_1" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-1">
+                    <input type="hidden" name="jx0415zbdiv_2" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-2">
+                    <input type="hidden" name="jx0415zbdiv_4" value="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-4">
+
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-1" class="kbcontent1" style="display: none;">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-2" style="" class="kbcontent">&nbsp;</div>
+                    <div id="8B9F6D8DE5784C0AB87638E52AB3C6FC-7-4" style="display:none;" class="kbcontent"></div>
+                </td>
+
+            </tr>
+        
+        <tr>
+            <th width="70" height="28" align="center" style="background: rgb(222,225,230)">
+                备注:
+            </th> <td colspan="7" align="left" style="color: #3B82FF;"> </td>
+        </tr>
+    </tbody>
